@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+python-dotenv
+passlib[bcrypt]
+python-jose
+openai
+alembic
+requests
+psycopg2-binary
+pymongo
+pandas
+openpyxl
